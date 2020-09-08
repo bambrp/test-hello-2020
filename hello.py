@@ -1,3 +1,1 @@
-from pprint import pprint
-
-pprint("Hello world!")
+print("Hello world!")
